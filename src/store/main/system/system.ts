@@ -34,6 +34,7 @@ const systemModule: Module<ISystemState, IRootState> = {
     },
     changeUsersList(state, userList: any) {
       state.usersList = userList
+      console.log(userList)
     },
     changeDepartmentTotalCount(state, totalCount: number) {
       state.departmentTotalCount = totalCount

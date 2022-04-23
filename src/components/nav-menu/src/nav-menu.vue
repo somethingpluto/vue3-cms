@@ -2,7 +2,7 @@
   <div class="nav-menu">
     <div class="logo">
       <img class="img" src="~@/assets/img/logo.svg" alt="logo" />
-      <span v-show="!collapse" class="title">Coderwhy-CMS</span>
+      <span v-show="!collapse" class="title">Vue3CMS</span>
     </div>
     <el-menu
       :default-active="currentItemId"
