@@ -16,7 +16,7 @@
 
 ​ 除 Overview 页面以外，其它页面主体均已完成。
 
-gitee 仓库地址 👉：https://gitee.com/chx2333/fc_test_system
+gitee 仓库地址 👉：https://gitee.com/chx2333/vue3_-cms
 
 线上展示地址 👉：http://120.25.255.207/#/main/system/user
 
