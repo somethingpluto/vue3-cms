@@ -64,7 +64,7 @@ const login: Module<ILoginState, IRootState> = {
       // 4.请求完全的角色和部门
       dispatch('getInitalDataAction', null, { root: true })
 
-      // 跳转到首页
+      //
       router.push('/main')
     },
     loadLocalCache({ commit, dispatch }) {

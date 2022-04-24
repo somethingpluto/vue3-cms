@@ -2,7 +2,7 @@
 
 ## 前言 😀
 
-​ 这个项目是跟着 coderwhy 老师的 Vue3+Ts 课程的结业项目。在这长达 3 个月的时间，从 Vue3 过渡到了 Vue3+ts。本篇 blog 为对这个历时 1 个月项目的总结。
+​ 这个项目是跟着 coderwhy 老师的 Vue3+Ts 课程的结业项目。在这长达 3 个月的时间，从 Vue2 过渡到了 Vue3+ts。本篇 blog 为对这个历时 1 个月项目的总结。
 
 ## 技术栈 🚧
 
@@ -16,9 +16,9 @@
 
 ​ 除 Overview 页面以外，其它页面主体均已完成。
 
-gitee 仓库地址 👉：
+gitee 仓库地址 👉：https://gitee.com/chx2333/fc_test_system
 
-线上展示地址 👉：
+线上展示地址 👉：http://120.25.255.207/#/main/system/user
 
 登录用户名：coderwhy 密码：123456
 
